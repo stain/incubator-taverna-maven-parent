@@ -227,6 +227,7 @@ upgraded - this leads to recursive spaghetti.
 		<plugin>
 			<groupId>org.apache.maven.plugins</groupId>
 			<artifactId>maven-source-plugin</artifactId>
+      <version>2.2.1</version>
 			<executions>
 				<execution>
 					<goals>
@@ -239,6 +240,7 @@ upgraded - this leads to recursive spaghetti.
 		<plugin>
 			<groupId>org.apache.maven.plugins</groupId>
 			<artifactId>maven-jar-plugin</artifactId>
+      <version>2.4</version>
 			<executions>
 				<execution>
 					<goals>
