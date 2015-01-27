@@ -1,1 +1,2 @@
 
+org.apache.taverna taverna-parent pom s/.*/debian/ * *
