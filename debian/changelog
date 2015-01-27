@@ -1,0 +1,6 @@
+libtaverna-parent-java (1-SNAPSHOT-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your
+    ITP>
+
+ -- Stian Soiland-Reyes <stain@apache.org>  Tue, 27 Jan 2015 09:48:24 +0000
