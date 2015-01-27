@@ -3,3 +3,6 @@ org.apache apache pom s/.*/debian/ * *
 org.apache.maven.scm maven-scm-api jar s/.*/debian/ * *
 org.apache.maven.scm maven-scm-provider-gitexe jar s/.*/debian/ * *
 org.apache.taverna taverna-parent pom s/.*/debian/ * *
+org.apache.maven.plugins maven-source-plugin s/.*/debian/ * *
+org.apache.maven.plugins maven-jar-plugin s/.*/debian/ * *
+org.apache.felix maven-bundle-plugin s/.*/debian/ * *
